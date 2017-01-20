@@ -1,0 +1,8 @@
+-Purchase the Arduino DUE for use with the fight deck.
+
+-The MEGA will be used for the arcade machine.
+     -There will be a dedicated single player control scheme deck as well, but much later.
+	 -Will probably use a DUE for this at that point.
+
+-We need a computer for the arcade machine and a monitor.
+	 -Will most likely source those from the ACM.
